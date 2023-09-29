@@ -1,0 +1,5 @@
+type: web
+name: niggling
+runtime: static
+buildCommand: yarn build
+publishDirectory: build
